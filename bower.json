@@ -1,0 +1,20 @@
+{
+  "name": "Online Degree Verification System",
+  "description": "A web application to allow the students of a universty to apply for the degree verification without having to do it in person.",
+  "main": "",
+  "authors": [
+    "abdullah7168 <syedmohadabdullahshah@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}
